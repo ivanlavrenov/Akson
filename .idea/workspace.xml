@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d09c0ea4-eb31-4bf8-9fb6-37cb8ee51653" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gMEtrmjxc5phq2COGmS1oQtTm9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d09c0ea4-eb31-4bf8-9fb6-37cb8ee51653" name="Default Changelist" comment="" />
+      <created>1597916279068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597916279068</updated>
+      <workItem from="1597916286527" duration="29000" />
+      <workItem from="1598175725800" duration="1378000" />
+      <workItem from="1598177130580" duration="10000" />
+      <workItem from="1598177154542" duration="182000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="247" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598177272904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="247" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598177272904" />
+    <state x="819" y="267" key="FileChooserDialogImpl" timestamp="1598177324089">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="819" y="267" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598177324089" />
+    <state x="703" y="309" width="672" height="678" key="search.everywhere.popup" timestamp="1598177179175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="703" y="309" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598177179175" />
+  </component>
+</project>

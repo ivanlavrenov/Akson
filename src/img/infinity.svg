@@ -1,0 +1,19 @@
+<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg" viewBox="-2 0 104 100" preserveAspectRatio="xMidYMid" class="infinity">
+    <path fill="none" ng-attr-stroke="{{config.stroke}}" ng-attr-stroke-width="{{config.width}}"
+          ng-attr-stroke-dasharray="{{config.dasharray}}"
+          d="M24.3,30C11.4,30,5,43.3,5,50s6.4,20,19.3,20c19.3,0,32.1-40,51.4-40 C88.6,30,95,43.3,95,50s-6.4,20-19.3,20C56.4,70,43.6,30,24.3,30z"
+          stroke="rgba(255,0,0,0.2)" stroke-width="8" stroke-linecap="round">
+    </path>
+    <path fill="none" ng-attr-stroke="{{config.stroke}}"
+          ng-attr-stroke-width="{{config.width}}"
+          ng-attr-stroke-dasharray="{{config.dasharray}}"
+          d="M24.3,30C11.4,30,5,43.3,5,50s6.4,20,19.3,20c19.3,0,32.1-40,51.4-40 C88.6,30,95,43.3,95,50s-6.4,20-19.3,20C56.4,70,43.6,30,24.3,30z"
+          stroke="rgba(255,0,0,1)" stroke-width="8" stroke-linecap="round" stroke-dasharray="128.3 128.3">
+        <animate attributeName="stroke-dashoffset"
+                 calcMode="linear" values="0;256.6"
+                 keyTimes="0;1"
+                 dur="2.0"
+                 begin="0.1s"
+                 repeatCount="indefinite"></animate>
+    </path>
+</svg>

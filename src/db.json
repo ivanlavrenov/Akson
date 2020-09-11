@@ -1,0 +1,185 @@
+{
+  "lists": [
+    {
+      "name": "Москва",
+      "id": "Moscow"
+    },
+    {
+      "name": "Владимир",
+      "id": "Vladimir"
+    },
+    {
+      "name": "Вологда",
+      "id": "Vologda"
+    },
+    {
+      "name": "Дзержинск",
+      "id": "Dzerzhinsk"
+    },
+    {
+      "name": "Иваново",
+      "id": "Ivanovo"
+    },
+    {
+      "name": "Калуга Болдина",
+      "id": "Kaluga"
+    },
+    {
+      "name": "Калуга Московская",
+      "id": "kaluga"
+    },
+    {
+      "name": "Кинешма",
+      "id": "Kineshma"
+    },
+    {
+      "name": "Ковров",
+      "id": "Kovrov"
+    },
+    {
+      "name": "Кострома",
+      "id": "Kostroma"
+    },
+    {
+      "name": "Нижний Новгород",
+      "id": "Novgorod"
+    },
+    {
+      "name": "Переславль-Залесский",
+      "id": "Pereslavl"
+    },
+    {
+      "name": "Рыбинск",
+      "id": "Rybinsk"
+    },
+    {
+      "name": "Смоленск",
+      "id": "Smolensk"
+    },
+    {
+      "name": "Тамбов",
+      "id": "Tambov"
+    },
+    {
+      "name": "Череповец",
+      "id": "Cherepovec"
+    },
+    {
+      "name": "Ярославль Громова",
+      "id": "Yaroslavl"
+    },
+    {
+      "name": "Ярославль Фрунзе",
+      "id": "Yaroslavl"
+    },
+    {
+      "name": "Архангельск",
+      "id": "Arkhangelsk"
+    },
+    {
+      "name": "Астрахань",
+      "id": "Vladimir"
+    },
+    {
+      "name": "Белгород",
+      "id": "Vologda"
+    },
+    {
+      "name": "Биробиджан",
+      "id": "Dzerzhinsk"
+    },
+    {
+      "name": "Благовещенск",
+      "id": "Ivanovo"
+    },
+    {
+      "name": "Брянск",
+      "id": "Kaluga"
+    },
+    {
+      "name": "Великий Новгород",
+      "id": "kaluga"
+    },
+    {
+      "name": "Волгоград",
+      "id": "Kineshma"
+    },
+    {
+      "name": "Воронеж",
+      "id": "Kovrov"
+    },
+    {
+      "name": "Курган",
+      "id": "Kostroma"
+    },
+    {
+      "name": "Курск",
+      "id": "Novgorod"
+    },
+    {
+      "name": "Липецк",
+      "id": "Pereslavl"
+    },
+    {
+      "name": "Магадан",
+      "id": "Rybinsk"
+    },
+    {
+      "name": "Мурманск",
+      "id": "Smolensk"
+    },
+    {
+      "name": "Новосибирск",
+      "id": "Tambov"
+    },
+    {
+      "name": "Омск",
+      "id": "Cherepovec"
+    },
+    {
+      "name": "Орёл",
+      "id": "Yaroslavl"
+    },
+    {
+      "name": "Оренбург",
+      "id": "Yaroslavl"
+    },
+    {
+      "name": "Санкт-Петербург",
+      "id": "Yaroslavl"
+    },
+    {
+      "name": "Саратов",
+      "id": "Yaroslavl"
+    },
+    {
+      "name": "Тверь",
+      "id": "Yaroslavl"
+    },
+    {
+      "name": "Томск",
+      "id": "Yaroslavl"
+    },
+    {
+      "name": "Тула",
+      "id": "Yaroslavl"
+    },
+    {
+      "name": "Тюмень",
+      "id": "Yaroslavl"
+    },
+    {
+      "name": "Ульяновск",
+      "id": "Yaroslavl"
+    },
+    {
+      "name": "Челябинск",
+      "id": "Yaroslavl"
+    },
+    {
+      "name": "Южно-Сахалинск",
+      "id": "Yaroslavl"
+    }
+  ]
+}
+
